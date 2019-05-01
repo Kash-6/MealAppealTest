@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://kash-6.github.io/MealAppealTest/",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express-session": "^1.16.1",
@@ -32,6 +33,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mmooney363/MealAppeal/issues"
-  },
-  "homepage": "https://kash-6.github.io/MealAppealTest/"
+  }
 }
